@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 
-class Caibro {
+class Semana0302 {
   public static void main(String[] args) {
     double altura, largura, metade, caibro;
     Scanner ler = new Scanner(System.in);
