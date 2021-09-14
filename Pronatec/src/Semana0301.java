@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 
-class Main {
+class Semana0301 {
   public static void main(String[] args) {
     double nota01, nota02, nota03, media;
     String aluno;
